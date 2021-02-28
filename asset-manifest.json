@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/narendraraghu/my-profile-app/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/narendraraghu/my-profile-app/static/js/main.a46d16f1.chunk.js",
-    "main.js.map": "/narendraraghu/my-profile-app/static/js/main.a46d16f1.chunk.js.map",
-    "runtime-main.js": "/narendraraghu/my-profile-app/static/js/runtime-main.1fc25543.js",
-    "runtime-main.js.map": "/narendraraghu/my-profile-app/static/js/runtime-main.1fc25543.js.map",
-    "static/js/2.5f5d9b07.chunk.js": "/narendraraghu/my-profile-app/static/js/2.5f5d9b07.chunk.js",
-    "static/js/2.5f5d9b07.chunk.js.map": "/narendraraghu/my-profile-app/static/js/2.5f5d9b07.chunk.js.map",
-    "static/js/3.5ea7125b.chunk.js": "/narendraraghu/my-profile-app/static/js/3.5ea7125b.chunk.js",
-    "static/js/3.5ea7125b.chunk.js.map": "/narendraraghu/my-profile-app/static/js/3.5ea7125b.chunk.js.map",
-    "index.html": "/narendraraghu/my-profile-app/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/narendraraghu/my-profile-app/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.5f5d9b07.chunk.js.LICENSE.txt": "/narendraraghu/my-profile-app/static/js/2.5f5d9b07.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/narendraraghu/my-profile-app/static/media/logo.6ce24c58.svg"
+    "main.css": "/my-profile-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/my-profile-app/static/js/main.a46d16f1.chunk.js",
+    "main.js.map": "/my-profile-app/static/js/main.a46d16f1.chunk.js.map",
+    "runtime-main.js": "/my-profile-app/static/js/runtime-main.87051855.js",
+    "runtime-main.js.map": "/my-profile-app/static/js/runtime-main.87051855.js.map",
+    "static/js/2.5f5d9b07.chunk.js": "/my-profile-app/static/js/2.5f5d9b07.chunk.js",
+    "static/js/2.5f5d9b07.chunk.js.map": "/my-profile-app/static/js/2.5f5d9b07.chunk.js.map",
+    "static/js/3.5ea7125b.chunk.js": "/my-profile-app/static/js/3.5ea7125b.chunk.js",
+    "static/js/3.5ea7125b.chunk.js.map": "/my-profile-app/static/js/3.5ea7125b.chunk.js.map",
+    "index.html": "/my-profile-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/my-profile-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.5f5d9b07.chunk.js.LICENSE.txt": "/my-profile-app/static/js/2.5f5d9b07.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/my-profile-app/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1fc25543.js",
+    "static/js/runtime-main.87051855.js",
     "static/js/2.5f5d9b07.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.a46d16f1.chunk.js"
